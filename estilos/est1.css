@@ -1,0 +1,32 @@
+*{margin: 0px; padding: 0px;}
+.padre{
+    background-color: aqua;
+    padding: 5px;
+    margin: 5px;
+    height: 550px;
+}
+.titulo{
+    background-color: bisque;
+    margin: 5px;
+    height: 15%;
+    text-align: center;
+}
+.titulo li{
+    display: inline;
+    text-decoration: none;
+}
+.contenido{
+    background-color: bisque;
+    margin: 5px;
+    height: 70%;
+    text-align: center;
+}
+.pie{
+    background-color: bisque;
+    margin: 5px;
+    height: 10%;
+    text-align: center;
+}
+img{
+    height: 50vh;
+}
